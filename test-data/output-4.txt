@@ -1,0 +1,3 @@
+SUCCESS # init
+SUCCESS # mindent kilövünk
+FAIL # üres tár

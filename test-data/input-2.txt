@@ -1,0 +1,5 @@
+# automatikusan a második tárból lő
+# ha mindkettő kifogy FAIl
+GT4500,0,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

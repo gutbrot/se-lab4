@@ -1,0 +1,3 @@
+SUCCESS # init
+FAIL # ALL
+FAIL # SINGLE
