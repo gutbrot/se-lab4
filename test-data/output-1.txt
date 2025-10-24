@@ -1,0 +1,3 @@
+SUCCESS #init
+SUCCESS # első lövés
+FAIL # második löves

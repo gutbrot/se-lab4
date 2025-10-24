@@ -1,0 +1,4 @@
+# ha 1-re állítjuk a FAILURE_RATE-et mindig FAIL-t kapunk
+GT4500,10,1,10,1
+TORPEDO,ALL
+TORPEDO,SINGLE

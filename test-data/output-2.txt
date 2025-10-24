@@ -1,0 +1,3 @@
+SUCCESS # input
+SUCCESS # első lövés
+FAIL # második lövés
